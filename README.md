@@ -169,3 +169,10 @@ postman/collections/Seat-Table Management API/
 - `docs/DEMO_SCRIPT.md`
 - `docs/PRESENTATION_SLIDES.md`
 - `docs/ENVIRONMENT.md`
+
+## FAQ: AI Analysis and Repository Contributors
+
+- On GitHub, a contributor is an account associated with commits that are part of the repository history (for example, merged directly or via pull request).
+- Allowing an AI agent to only inspect or analyze the repository is read-only activity.
+- Read-only analysis does not create commits, so it does not make the AI agent a contributor.
+- An AI could be considered a contributor only if it authors commits and those commits are merged into the repository history.
